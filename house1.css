@@ -1,0 +1,9 @@
+body {
+    background-size: cover;
+}
+
+canvas {
+    background-color: aquamarine;
+    border-color: black;
+    border-radius: 20px;
+}
